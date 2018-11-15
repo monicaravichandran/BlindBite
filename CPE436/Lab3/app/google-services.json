@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "60925689883",
+    "firebase_url": "https://finallab6.firebaseio.com",
+    "project_id": "finallab6",
+    "storage_bucket": "finallab6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60925689883:android:d20ab1a4413e2b16",
+        "android_client_info": {
+          "package_name": "com.example.monicaravichandran.lab3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60925689883-akrr72oj6qed387n8kps1agios780jqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMEYO5w5zVJJBPpLjpPqIxf3n-w4xgeUI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
